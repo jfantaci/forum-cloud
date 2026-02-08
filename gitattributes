@@ -1,0 +1,6 @@
+# GitHub Linguist overrides
+# The HTML and JS files are generated outputs of the Python pipeline.
+# Mark them so GitHub correctly identifies this as a Python project.
+
+*.html linguist-generated
+word_cloud_data.js linguist-generated

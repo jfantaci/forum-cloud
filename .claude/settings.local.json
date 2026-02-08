@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth status:*)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud log --oneline -5)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud remote:*)",
+      "Bash(brew install:*)",
+      "Bash(gh auth login:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
