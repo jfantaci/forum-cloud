@@ -7,7 +7,13 @@
       "Bash(brew install:*)",
       "Bash(gh auth login:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud status)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud diff --staged)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud diff)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud add .vscode/settings.json .vscode/extensions.json .vscode/launch.json README.md .claude/settings.local.json)",
+      "Bash(git -C /Users/afantaci/Desktop/forum-cloud commit -m \"$\\(cat <<''EOF''\nAdd VS Code config and project README\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
